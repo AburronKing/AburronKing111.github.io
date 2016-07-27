@@ -22,19 +22,9 @@
 	justify-content: space-around;
 	margin: 0 auto;
 }
-/*#hobby1,#hobby2,#hobby3{
-	/*width: 200px;*/
-	/*margin: 0 auto;*/
-	/*position: relative;*/
-	/*overflow: hidden;*/
-	/*border: 1px solid yellow;*/
-/*}*/
 #hobby .pic{
-	/*width: 121px;height: 140px;*/
-	/*margin: 0 auto;*/
     position: relative;
     overflow: hidden;
-    /*border:1px solid sienna;*/
 }
 #hobby .pic>img {
 	vertical-align: bottom;
@@ -57,7 +47,6 @@
 #myself{
 	width: 90%;
 	margin: 50px auto;overflow: hidden;
-	border:1px solid sienna;
 }
 #myself>div{
 	float: left;
@@ -66,7 +55,7 @@
 	width: 30%;
 }
 #mytxt{
-	width: 71%;margin-left: 4%;margin-top: 20px;border:1px solid sienna;
+	width: 71%;margin-left: 4%;margin-top: 20px;
 }
 #mypic img{
 	width: 100%;
